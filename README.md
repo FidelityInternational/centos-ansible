@@ -1,2 +1,4 @@
 # centos-ansible
-Centos image with Ansible latest version installed
+
+Dockerfile for Centos container with Ansible and Git. 
+See Dockerfile for the rest of packages.
