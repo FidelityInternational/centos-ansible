@@ -7,7 +7,7 @@ RUN yum install -y python2 python38 \
                    openssh-clients \
                    which \
                    libnsl libaio \
-                   unzip \ 
+                   unzip \
                    jq \
                    sudo && \
     yum install -y ansible && \
