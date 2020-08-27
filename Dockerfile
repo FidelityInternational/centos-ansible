@@ -9,6 +9,7 @@ RUN yum install -y python2 python38 \
                    libnsl libaio \
                    unzip \
                    jq \
+                   diffutils \
                    sudo && \
     yum install -y ansible && \
     yum clean all
